@@ -1,0 +1,8 @@
+# Packages required for this project
+
+statsmodels>=0.8.0  # KPSS was introduced with 0.8.0, so this seem reasonable
+numpy
+matplotlib
+pandas
+cycler
+networkx
